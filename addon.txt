@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name"				"Kythre Chatbox"
+	"author_name"			"Kythre"
+}
